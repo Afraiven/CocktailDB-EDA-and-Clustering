@@ -15,3 +15,5 @@ Projekt jest rozłożony na 6 notatników Jupyter oraz plik `scripts_logic.py`:
 ## Wyniki:
 - Wyniki opisane są w ostatnim notatniku: `6_Results_and_evaluation.ipynb`, wystarczy uruchomić go bez konieczności przechodzenia przez wszystkie poprzednie.
 - Animacja klastrów jest zapisana jako `final_clusters.gif`
+
+![Klastrowanie K-means na danych PCA](final_clusters.gif)
