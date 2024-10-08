@@ -10,7 +10,7 @@ Projekt jest rozłożony na 6 notatników Jupyter oraz plik `scripts_logic.py`:
 6. `6_Results_and_evaluation.ipynb` - finalny plik z wynikami
 
 ## Wymagania
-- Określone w plikach `dependencies.txt`, `environment.yaml` oraz `pyproject.toml`
+- Określone w pliku `dependencies.txt`
 
 
 
