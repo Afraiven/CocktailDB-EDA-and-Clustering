@@ -1,19 +1,19 @@
-# EDA i klasteryzacja - KN Solvro rekrutacja do sekcji ML
-Celem projektu jest przeprowadzenie eksploracyjnej analizy danych oraz klasteryzacji zbioru danych pochodzącego z bazy TheCocktailDB. 
+# EDA and Clustering - KN Solvro Recruitment for the ML Section
+The goal of the project is to conduct exploratory data analysis and clustering of a dataset from TheCocktailDB.
 
-Projekt jest rozłożony na 6 notatników Jupyter oraz plik `scripts_logic.py`:
-1. `1_EDA.ipynb`- eksploracyjna analiza danych
-2. `2_IngredientsEDA.ipynb` - analiza składników
+The project is divided into 6 Jupyter notebooks and the file `scripts_logic.py`:
+1. `1_EDA.ipynb` - exploratory data analysis
+2. `2_IngredientsEDA.ipynb` - ingredient analysis
 3. `3_Preprocessing.ipynb` - preprocessing
-4. `4_Further_analysis.ipynb` - analiza danych po preprocessingu
-5. `5_Clustering.ipynb` - tworzenie klustrów
-6. `6_Results_and_evaluation.ipynb` - finalny plik z wynikami
+4. `4_Further_analysis.ipynb` - data analysis after preprocessing
+5. `5_Clustering.ipynb` - creating clusters
+6. `6_Results_and_evaluation.ipynb` - final file with results
 
-## Wymagania
-- Określone w pliku `dependencies.txt`
+## Requirements
+- Specified in the file `dependencies.txt`
 
-## Wyniki:
-- Wyniki opisane są w ostatnim notatniku: `6_Results_and_evaluation.ipynb`, wystarczy uruchomić go bez konieczności przechodzenia przez wszystkie poprzednie.
-- Animacja klastrów jest zapisana jako `final_clusters.gif`
+## Results:
+- The results are described in the last notebook: `6_Results_and_evaluation.ipynb`, you can run it without going through all the previous ones.
+- The cluster animation is saved as `final_clusters.gif`
 
-![Klastrowanie K-means na danych PCA](final_clusters.gif)
+![K-means Clustering on PCA Data](final_clusters.gif)
